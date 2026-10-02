@@ -1,0 +1,21 @@
+# Python bytecode and cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments (if you use them)
+.venv/
+venv/
+ENV/
+env/
+
+# Data and large files (keeps your repo from breaking on heavy downloads)
+*.csv
+*.json
+*.tsv
+*.zip
+*.tar.gz
+
+# OS specific temporary files
+.DS_Store
+Thumbs.db
